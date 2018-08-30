@@ -1,7 +1,4 @@
 title: hhh
 header: uu
 description: uuu
-card:
-  - bg-image: /static/img/hackerman.jpg
-    half: true
-    header: uuu
+card: []
