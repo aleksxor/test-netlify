@@ -1,0 +1,2 @@
+webpackJsonp([0x80920310976b],{173:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r=t(1),l=t(21),u=t(16),a=function(){return r.createElement(l.Page,null,r.createElement(u.Container,null,"process"))};n.default=a}});
+//# sourceMappingURL=component---src-pages-process-tsx-67f08072a2baa4de13b3.js.map
