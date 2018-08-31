@@ -1,2 +1,2 @@
-webpackJsonp([0x7b77232a241a],{174:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=n(1),l=n(21),r=n(16),u=function(){return a.createElement(l.Page,null,a.createElement(r.Container,null,"team"))};t.default=u}});
+webpackJsonp([0x7b77232a241a],{175:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=n(1),l=n(34),r=n(13),u=function(){return a.createElement(l.Page,null,a.createElement(r.Container,null,"team"))};t.default=u}});
 //# sourceMappingURL=component---src-pages-team-tsx-fb60389b592fd46cff3e.js.map
