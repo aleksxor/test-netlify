@@ -1,2 +1,2 @@
-webpackJsonp([58372664347541],{303:function(t,a){t.exports={data:{site:{siteMetadata:{title:"makeomatic-landing",description:"Makeomatic landing",author:{name:"Alexey Khoroshev",url:"https://github.com/aleksxor"}}},markdownRemark:{html:"<h2>Contacts</h2>",excerpt:"Contacts",frontmatter:{title:"contacts"}}},pathContext:{slug:"/contacts/"}}}});
+webpackJsonp([58372664347541],{302:function(t,a){t.exports={data:{site:{siteMetadata:{title:"makeomatic-landing",description:"Makeomatic landing",author:{name:"Alexey Khoroshev",url:"https://github.com/aleksxor"}}},markdownRemark:{html:"<h2>Contacts</h2>",excerpt:"Contacts",frontmatter:{title:"contacts"}}},pathContext:{slug:"/contacts/"}}}});
 //# sourceMappingURL=path---contacts-a342ee2744641de8f06e.js.map
