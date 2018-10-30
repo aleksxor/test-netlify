@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{102:function(t,a){t.exports={data:{site:{siteMetadata:{title:"makeomatic-landing",description:"Makeomatic landing"}}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{103:function(t,a){t.exports={data:{site:{siteMetadata:{title:"makeomatic-landing",description:"Makeomatic landing"}}},layoutContext:{}}}});
 //# sourceMappingURL=path----35c79be6971955e4400f.js.map
